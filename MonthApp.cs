@@ -6,11 +6,10 @@ class MonthApp {
             Console.WriteLine("Please enter a valid month.");
             return;
         }
-        
+
         if (userResponse.Equals("All", StringComparison.OrdinalIgnoreCase)) {
-            foreach(var month in months) {
-                Console.WriteLine(month);
-            }
+            Console.Write("Display all month: " + string.Join(", ", months));
+            Console.WriteLine();
         }
         else {
             int.TryParse(userResponse, out int userInput);
@@ -20,12 +19,13 @@ class MonthApp {
             }
             else {
                 if(userInput is int && userInput != 0) {
-                    Console.WriteLine($"{userInput} is not valid.");
+                    Console.WriteLine($"{userInput} is not a valid input.");
                 }
                 else {
-                    Console.WriteLine($"\"{userResponse}\" user input is not valid.");
+                    Console.WriteLine($"\"{userResponse}\" user input is not a valid input.");
                 }
             }
         }
+        Console.WriteLine();
     }
 }
