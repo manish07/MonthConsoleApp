@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/Practice/MonthApp/bin/Debug/net7.0/MonthApp
+/Users/manishkumar/Downloads/Practice/MonthApp/bin/Debug/net7.0/MonthApp.deps.json
+/Users/manishkumar/Downloads/Practice/MonthApp/bin/Debug/net7.0/MonthApp.runtimeconfig.json
+/Users/manishkumar/Downloads/Practice/MonthApp/bin/Debug/net7.0/MonthApp.dll
+/Users/manishkumar/Downloads/Practice/MonthApp/bin/Debug/net7.0/MonthApp.pdb
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.AssemblyInfo.cs
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.dll
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/refint/MonthApp.dll
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.pdb
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/MonthApp.genruntimeconfig.cache
+/Users/manishkumar/Downloads/Practice/MonthApp/obj/Debug/net7.0/ref/MonthApp.dll
